@@ -1,0 +1,4 @@
+﻿Ideas: 
+- implement a way to put your starting scores
+- implement a way to change dart scores
+- show how much a person needs to win when they get within a certain range
